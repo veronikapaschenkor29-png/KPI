@@ -8,6 +8,8 @@
 
 <details><summary>Код PlantUML</summary>
 
+![Діаграма діяльності: видача книги](activity.png)
+
 ```plantuml
 @startuml activity-borrow
 skinparam defaultFontSize 13
